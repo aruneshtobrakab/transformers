@@ -3,4 +3,4 @@
 [Course](https://www.udemy.com/course/nlp-with-transformers/?couponCode=MEDIUM)
 
 [Docs](https://jamescalam.github.io/transformers/)
-# new branch for myself
+# new branch for myself - more edits to check git functionality
